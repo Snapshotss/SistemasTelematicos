@@ -6,10 +6,11 @@ Ente repocitorio documenta mi aprendizaje y proceso de lo realizado durante mis 
 # 🚀 Contenido 
 Aquí encontrarás información sobre:
 
-## 📂Gestión del repositoria en GitHub:
+### 📂Gestión del repositoria en GitHub:
 Creación, confirmación y ramas.
 
-## ☁️Despligue de Oracle Cloud:
+### ☁️Despligue de Oracle Cloud:
 Configuración de máquinas virtuales, base de datos y servicios.
 
-## 🖥️Automarización y 
+### 🖥️Automarización y DivOps:
+
