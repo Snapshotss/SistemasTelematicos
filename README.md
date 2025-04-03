@@ -1,4 +1,4 @@
-# GitHub y Oracle Cloud
+# Proyecto Final - Sistemas Telematicos
 ## Introducción
 Ente repocitorio documenta mi aprendizaje y proceso de lo realizado durante mis clases, donde exploramos el uso de GitHub para el control **GitHub** para el control de y administracón de proyectos, y **Oracle** para la infraestructura en la nube.
 
@@ -8,10 +8,11 @@ Aquí encontrarás información sobre:
 
 #### 📂Gestión del repositoria en GitHub:
 Creación, confirmación y ramas.
-* [GitHub](https://github.com/Snapshotss/SistemasTelematicos/blob/main/README.md)
+* [GitHub]() 🗂️
 
 #### ☁️Despligue de Oracle Cloud:
 Configuración de máquinas virtuales, base de datos y servicios.
+* [Oracle Cloud]()
 
 #### 🖥️Automarización y DivOps:
 Uso de GitHub Actions e integración con Oracle Cloud.
